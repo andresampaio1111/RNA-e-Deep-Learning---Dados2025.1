@@ -1,0 +1,5 @@
+COMANDOS PARA ATUALIZAR O REPOSITORIO DO GITHUB
+
+git add "atividade 1/nome_do_arquivo.ext"
+git commit -m "Adicionado arquivo à pasta atividade 1"
+git push
